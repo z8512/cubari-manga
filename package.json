@@ -2,7 +2,7 @@
   "name": "cubari-proxy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://proxy.cubari.moe/",
+  "homepage": "./",
   "dependencies": {
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
